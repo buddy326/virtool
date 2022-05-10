@@ -11,6 +11,7 @@ on:
       - "main"
       - "alpha"
       - "beta"
+  workflow_dispatch:
 
 jobs:
   commitlint:
